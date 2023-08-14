@@ -1,0 +1,12 @@
+Here are some game instructions:
+
+Your goal is to find the key and reach the final room.
+You can move between rooms using the directions north, east, south, or west.
+Use 'take <item>' to pick up an item and 'leave <item>' to leave an item.
+You can also 'talk <character>' to interact with characters in the room.
+
+You as a (Alice) player has fallen into the rabbit hole with paths leading to different locations. Your job is to make it back to wonderland.
+
+You can enter either a direction (north, east, south, west) or abbreviated direction (n, e ,s, w) to move. You can take items by typing take <item name> or leave items by typing leave <item name>. In some rooms you may run into different characters, you can talk to the by typing talk <character name>. Be careful as some characters may want to kill the player. The character may only carry one item at a time so they will need to put the item in the safe room in order to swap the items. Some characters may have a map or other handy materials, while others will have advice. Will need to use the character's advice to determine which item to take with you to wonderland since you cannot get all the way in without a certain item.
+
+Have fun playing!

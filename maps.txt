@@ -1,0 +1,37 @@
+This is a map of the game:
+
+Starting Point (Rabbit Hole):
+You fall into a rabbit hole with different tunnels in each direction, your goal is to make it back to wonderland.
+North of this location is: Tulgey Woods
+South of this location is: Nothing
+East of this location is: Nothing
+West of this location is: Nothing
+
+Tulgey Woods
+You have found a Tulgey Woods.
+North of this location is: Nothing
+South of this location is: Rabbit Hole
+East of this location is: The Dutchess' house
+West of this location is: The Croquet Ground
+
+Croquet Grounds:
+North of this location is: Nothing
+South of this location is: Nothing
+East of this location is: Tulgey Woods
+West of this location is: Nothing
+
+Dutchess' House:
+This is where the Dutchess Lives.
+North of this location is: Safe Room
+South of this location is: Pool of Tears
+East of this location is: Wonderland
+West of this location is: Tulgey Woods
+
+Wonderland:
+This is where the game ends
+North of this location is: Nothing
+South of this location is: Nothing
+East of this location is: Nothing
+West of this location is: Dutchess' House
+
+
